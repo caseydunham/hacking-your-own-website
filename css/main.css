@@ -11,6 +11,14 @@ body {
     color: #f0f7ff;
 }
 
+.highlight {
+    color: #aa0000;
+}
+
+.text-center {
+    text-align: center;
+}
+
 .notes {
     display:none;
 }
