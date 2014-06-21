@@ -5,11 +5,24 @@
  * the body element gets the class `impress-on-ID` where ID is the step's id.
  */
 
+
+body {
+    background: rgb(0, 0, 0);
+    color: #f0f7ff;
+}
+
 .notes {
     display:none;
 }
 
+
 .step h2 {
-    font-size: 78px;
+    font-family: 'Inconsolata',;
+    font-size: 64px;
     font-weight: bold;
+}
+
+q {
+
+    font-size: 32px;
 }
